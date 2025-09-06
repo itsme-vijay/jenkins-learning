@@ -1,4 +1,4 @@
-# 🚀 Lab 1 – Install Jenkins on AWS EC2
+# 🚀 Project 1 – Install Jenkins on AWS EC2
 
 This project shows how I installed **Jenkins** on an **AWS EC2 Ubuntu server**.  
 I have added step-by-step **screenshots** so you can follow visually.  
