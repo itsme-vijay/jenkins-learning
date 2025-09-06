@@ -23,7 +23,7 @@ Stay tuned ⭐ — more projects are coming one by one!
 
 👉 Each project here has only **screenshots**.  
 👉 For **detailed explanations, commands, and learning material**,  
-please read my articles on **Medium**:[Medium Link Here](https://medium.com/@sirohi-v/list/jenkins-a547cb723b30)
+please read my articles on **Medium**: [Medium Link Here](https://medium.com/@sirohi-v/list/jenkins-a547cb723b30)
 
 ---
 
